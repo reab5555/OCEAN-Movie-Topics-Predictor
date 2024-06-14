@@ -1,3 +1,5 @@
+<img src="icon" alt="icon" width="100"/>
+
 # OCEAN-Movie-Topics-Predictor
 
 ## Description
