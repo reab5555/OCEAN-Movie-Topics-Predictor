@@ -3,7 +3,7 @@
 ## Description
 This framework project aims to analyze the relationship between movie keywords/topics and personality traits based on the Big Five model.   
    
-The K-Nearest Neighbors (KNN) algorithm is used to predict which keywords or topics are associated with specific personality traits and gender by finding the most similar keywords for trait and gender. For each trait and gender combination, KNN identifies the 25 nearest keywords based on cosine similarity, calculates their similarity scores, and generates word clouds to visualize these associations. 
+The K-Nearest Neighbors (KNN) algorithm is used to predict which keywords or topics are associated with specific personality traits and gender by finding the most similar keywords for a trait. For each trait and gender combination, KNN identifies the 25 nearest keywords based on cosine similarity, calculates their similarity scores, and generates word clouds to visualize these associations. 
 
 The features are from the Big Five OCEAN model (Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism) and Gender for the movie keywords/topics predictions.
 ## Dataset
