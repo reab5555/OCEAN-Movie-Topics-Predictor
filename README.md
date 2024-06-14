@@ -7,4 +7,5 @@ The K-Nearest Neighbors (KNN) algorithm is used to predict which keywords or top
 
 The features are from the Big Five OCEAN model (Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism)
 
+## Dataset
 The MyPersonality dataset derived from a Facebook app comprises personality scores of user's that liked certain movies, along with demographic and profile data from users who consented to share their information for research (Approximately 1000 users). The dataset we have contains a list of about 850 movie titles facebook user's liked and their aggregated average measures of the users in terms of each personality trait, including age and gender (currently, data per user is not available).
