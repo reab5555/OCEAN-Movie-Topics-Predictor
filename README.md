@@ -22,4 +22,4 @@ Below is a sample of the dataset, showing the aggregated Big Five personality tr
 | The Pianist    | 0.5071  | -0.1512   | -0.2516   | -0.1203   | -0.0028 | 0.6223  | concert, nazi, resistance, warsaw ghetto, polish resistance, homeland, holocaust (shoah), hunger, world war ii, prisoner of war, ghetto, deportation, jew persecution, liberation, biography, survival, based on memoir or autobiography, pianist, poland |
 
 
-These scores represent the average personality trait levels of users who liked each movie.
+These scores represent the average personality trait levels and gender of users who liked each movie (Gender: 0 = male, 1 = female).
