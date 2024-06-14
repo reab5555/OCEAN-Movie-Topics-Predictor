@@ -1,6 +1,6 @@
 # OCEAN-Movie-Topics-Predictor
 
-## Project Description
+## Description
 This project aims to analyze the relationship between movie keywords/topics and personality traits based on the Big Five personality model.   
    
 The K-Nearest Neighbors (KNN) algorithm is used to predict which keywords or topics are associated with specific personality traits and gender by finding the most similar keywords in the dataset. For each trait and gender combination, KNN identifies the 25 nearest keywords based on cosine similarity, calculates their similarity scores, and generates word clouds to visualize these associations. 
