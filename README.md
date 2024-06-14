@@ -23,3 +23,8 @@ Below is a sample of the dataset, showing the aggregated Big Five personality tr
 
 
 These scores represent the average personality trait levels and gender of users who liked each movie (Gender: 0 = male, 1 = female).
+
+## Results
+<img src="results_dashboard_males.png" alt="Regression Plot of Best Model" width="600"/>
+<img src="results_dashboard_females.png" alt="Regression Plot of Best Model" width="600"/>
+
