@@ -1,4 +1,4 @@
-<img src="icon" alt="icon" width="100"/>
+<img src="icon.webp" alt="icon" width="100"/>
 
 # OCEAN-Movie-Topics-Predictor
 
