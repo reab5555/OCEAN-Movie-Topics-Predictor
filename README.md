@@ -1,7 +1,5 @@
 # OCEAN-Movie-Topics-Predictor
 
-# Movie Keywords and Personality Traits Analysis
-
 ## Project Description
 
 This project aims to analyze the relationship between movie keywords and personality traits based on the Big Five personality model. Utilizing a dataset derived from the MyPersonality dataset, which includes 850 movies, each movie is annotated with an aggregated mean score for the five personality traits: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism. Additionally, the dataset includes a mean gender score, where a score of 1 indicates female and 0 indicates male.
