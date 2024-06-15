@@ -27,7 +27,7 @@ Below is a sample of the dataset, showing the aggregated Big Five personality tr
 These scores represent the average personality trait levels and gender of users who liked each movie (Gender: 0 = male, 1 = female).
 
 ## Results
-We set each trait to an extreme score either low or high in trait for checking which keywords associated the most with each trait. here are the levels we set for each trait per gender:
+We set each trait to an extreme score (as scores vary between -1 to 1) either low or high in trait for checking which keywords associated the most with each trait. here are the levels we set for each trait per gender:
 
     "High Openness Male": [1, 0, 0, 0, 0, 0],
     "Low Openness Male": [-1, 0, 0, 0, 0, 0],
