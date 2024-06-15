@@ -27,6 +27,29 @@ Below is a sample of the dataset, showing the aggregated Big Five personality tr
 These scores represent the average personality trait levels and gender of users who liked each movie (Gender: 0 = male, 1 = female).
 
 ## Results
+We set each trait to an extreme score either low or high in trait for checking which keywords associated the most with each trait. here are the levels we set for each trait per gender:
+
+    "High Openness Male": [1, 0, 0, 0, 0, 0],
+    "Low Openness Male": [-1, 0, 0, 0, 0, 0],
+    "High Conscientiousness Male": [0, 1, 0, 0, 0, 0],
+    "Low Conscientiousness Male": [0, -1, 0, 0, 0, 0],
+    "High Extraversion Male": [0, 0, 1, 0, 0, 0],
+    "Low Extraversion Male": [0, 0, -1, 0, 0, 0],
+    "High Agreeableness Male": [0, 0, 0, 1, 0, 0],
+    "Low Agreeableness Male": [0, 0, 0, -1, 0, 0],
+    "High Neuroticism Male": [0, 0, 0, 0, 1, 0],
+    "Low Neuroticism Male": [0, 0, 0, 0, -1, 0],
+    "High Openness Female": [1, 0, 0, 0, 0, 1],
+    "Low Openness Female": [-1, 0, 0, 0, 0, 1],
+    "High Conscientiousness Female": [0, 1, 0, 0, 0, 1],
+    "Low Conscientiousness Female": [0, -1, 0, 0, 0, 1],
+    "High Extraversion Female": [0, 0, 1, 0, 0, 1],
+    "Low Extraversion Female": [0, 0, -1, 0, 0, 1],
+    "High Agreeableness Female": [0, 0, 0, 1, 0, 1],
+    "Low Agreeableness Female": [0, 0, 0, -1, 0, 1],
+    "High Neuroticism Female": [0, 0, 0, 0, 1, 1],
+    "Low Neuroticism Female": [0, 0, 0, 0, -1, 1]
+    
 <img src="results_dashboard_males.png" alt="males dashboard" width="600"/>
 <img src="results_dashboard_females.png" alt="females dashboard" width="600"/>
 
